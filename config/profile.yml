@@ -1,0 +1,66 @@
+# Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Mithila Devarinti"
+  email: "mithiladevarinti@gmail.com"
+  phone: "+447549677250"
+  location: "London, UK"
+  linkedin: ""
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+target_roles:
+  primary:
+    - "ESG Data Analyst"
+    - "Sustainability Analyst"
+    - "ESG Reporting Analyst"
+  archetypes:
+    - name: "ESG Data Analyst"
+      level: "Junior/Mid"
+      fit: "primary"
+    - name: "Sustainability Analyst"
+      level: "Junior/Mid"
+      fit: "primary"
+    - name: "ESG Reporting & Disclosure Analyst"
+      level: "Junior/Mid"
+      fit: "primary"
+    - name: "Climate & Carbon Analyst"
+      level: "Junior/Mid"
+      fit: "secondary"
+    - name: "ESG Consultant (Impact / Advisory)"
+      level: "Junior/Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "Law-trained ESG analyst with commercial rigour — emissions accounting to disclosure-ready reporting"
+  exit_story: "LLB from National Law University, MiM from London Business School (Laidlaw Scholar, top 1%). Now building hands-on ESG data experience at Aqualithic AI Consulting — Scope 1/2/3 accounting, Power BI dashboards, and disclosure-ready carbon baselines."
+  superpowers:
+    - "Regulatory literacy — reads TCFD, GRI, SECR, CSRD as primary sources"
+    - "Catches what others miss — identified and fixed systematic Scope 2 underestimation"
+    - "Translates complex data into executive-ready reports and dashboards"
+    - "Commercial framing — built £300K+ pitch deck grounded in data"
+    - "Cross-sector credibility — ESG data, impact consulting, legal research"
+  proof_points:
+    - name: "Scope 2 Recalculation Fix — Aqualithic"
+      hero_metric: "Identified systematic underestimation; rebuilt location-based and market-based calculations for disclosure accuracy"
+    - name: "Carbon Baseline — Aqualithic"
+      hero_metric: "Increased data coverage from 60% to 90% across 15+ operational sources"
+    - name: "£300K+ Funding Pitch — The Baytree Centre"
+      hero_metric: "Data-driven corporate pitch deck that secured £300K+ in funding"
+    - name: "Market Sizing Model — SFR Medical / LBS"
+      hero_metric: "Processed 40,000+ Ministry of Justice case records to estimate UK market size"
+
+compensation:
+  target_range: "£40,000–£55,000"
+  currency: "GBP"
+  minimum: "£35,000"
+  location_flexibility: "Hybrid preferred (London), open to remote"
+
+location:
+  country: "United Kingdom"
+  city: "London"
+  timezone: "GMT/BST"
+  visa_status: "Graduate visa (UK) — no sponsorship needed for current validity period"
